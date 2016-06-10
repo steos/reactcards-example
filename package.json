@@ -1,6 +1,9 @@
 {
+  "scripts": {
+    "cards": "./node_modules/.bin/reactcards -e src/main.js"
+  },
   "devDependencies": {
-    "reactcards": "^0.2.0"
+    "reactcards": "^0.3.0"
   },
   "dependencies": {
     "react": "^15.1.0",
